@@ -1,2 +1,1 @@
-# Weather_App
-Instant weather updates through Rapid Api.
+# Hotel Cancellation Prediction Model
